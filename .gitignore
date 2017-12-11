@@ -1,5 +1,6 @@
 # dependencies
 node_modules
+.idea/
 
 # logs
 npm-debug.log
@@ -8,4 +9,4 @@ npm-debug.log
 .nuxt
 
 # Nuxt generate
-dist
+.idea
