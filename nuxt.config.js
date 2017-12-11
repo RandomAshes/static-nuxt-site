@@ -1,6 +1,6 @@
 module.exports = {
   router: {
-    base: '/static-nuxt-site/'
+    base: '/static-nuxt-site'
   },
   /*
   ** Headers of the page
